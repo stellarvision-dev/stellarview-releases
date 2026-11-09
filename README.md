@@ -1,4 +1,4 @@
-# stellarview
+# 별뷰
 
 **위성영상과 일반 사진을 한 프로그램으로 보고, 옆에 있는 Claude 에게 말로 분석·라벨링을 시키는 뷰어.**
 
@@ -21,6 +21,8 @@
 ## 받기
 
 [**최신 버전 받기**](https://github.com/stellarvision-dev/stellarview-releases/releases/latest)
+
+> **1.0.0 을 쓰고 있다면** 앱 안의 자동 업데이트로는 1.0.1 을 받을 수 없다. 위 링크에서 설치 파일을 받아 한 번 직접 설치한다. 설정과 라벨은 그대로 남고, 그다음 버전부터는 다시 자동으로 업데이트된다.
 
 - `stellarview_<버전>_x64-setup.exe` — 보통 설치 파일.
 - `stellarview_<버전>_x64-offline-setup.exe` — 인터넷이 없는 PC 용(WebView2 설치본 포함).
