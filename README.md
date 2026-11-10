@@ -2,6 +2,10 @@
 
 **위성영상과 일반 사진을 한 프로그램에서 표시하고, 옆 창의 Claude에게 대화로 분석과 라벨링을 요청하는 뷰어.**
 
+![Claude가 한강 다리를 찾아 라벨을 표시한 화면](docs/img/05-ai.jpg)
+
+<sub>예시 영상: Contains modified Copernicus Sentinel data 2026 (Sentinel-2, 서울 여의도 일대)</sub>
+
 ## 주요 용도
 
 - 위성영상(GeoTIFF·NITF·TIL·JP2 등)을 열어 밴드 조합과 밝기를 조절하며 확인한다.
